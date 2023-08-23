@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+.log img{
+    width: 106px;
+    height: 20px;
+    margin-right: 5rem;
+}
+
+.head{
+    padding: 25px 4rem;
+    background-color: #fff;
+}
+
+.head-all{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav a{
+    margin: 0 20px;
+    color: #080808;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+
+.nav a:hover{
+    color: #abb8c3;
+    transition: 0.3s;
+}
+
+.logo{
+    display: flex;
+}
+
+.logo a{
+    margin-right: 20px;
+    color: #080808;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.logo .search-hamburger .icon-line{
+    margin-top: 4px;
+}
+
+.logo button{
+    margin-right: 20px;
+    color: #080808;
+    padding: 10px 20px;
+    background-color: #fff;
+    border: 1px solid #fff;
+    transition: 0.5s;
+    font-size: 13px;
+}
+
+.logo button:hover{
+    color: #abb8c3;
+}
+
+.search-hamburger{
+    display: flex;
+}
+
+.icon-search{
+    margin-right:55px;
+}
+
+.new{
+    margin-top: 10px;
+    margin-left: 25px;
+    width: 3%;
+    margin-right: 20px;
+}
+
+.old{
+    /* margin-top: 10px; */
+    margin: 10px 10px;
+    width: 3%;
+  
+}
+
+.fa-regular{
+    margin-top: 10px;
+}
+
+.block a{
+    margin: 0px  20px;
+    font-size: 13px;
+    color: #929292;
+    letter-spacing: 1px;
+    transition: 0.5s;
+}
+
+.block a:hover{
+    color: #080808;
+}
+
+.all-blocks{
+    margin:90px 0 0px 64px;
+}
+
+
+.all{
+    display: flex;
+    align-items: center;
+}
+
+
+.all{
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    margin-top: 80px;
+    padding: 0 4rem;
+}
+
+.box{
+    width: 22%;
+
+}
+
+.box img{
+    width: 100%;
+}
+
+.box p{
+    font-size: 14px;
+    margin: 12px 0 60px 0;
+    text-align: center;
+}
+
+.all-tables {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tables {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 20%;
+    margin-right: 20px;
+}
+
+.tables a {
+    margin: 5px 0;
+    text-decoration: none;
+    color: #333;
+}
+
+.tables h3{
+    margin-bottom: 30px;
+}
+
+.all-tables{
+    margin: 0 0 70px 82px;
+}
+
+.tables{
+    margin-right: 120px;
+}
+
+
+.tables a:hover{
+    color: #929292;
+    transition: 0.5s;
+}
+
+.footer{
+    margin: 10rem 0;
+}
+
